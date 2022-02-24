@@ -1,1 +1,1 @@
-packages/next/README.md
+packages/next/README.md[![Cancel](https://github.com/vercel/next.js/actions/workflows/cancel.yml/badge.svg?branch=11993-getServerSideProps-toJSON&event=workflow_run)](https://github.com/vercel/next.js/actions/workflows/cancel.yml)
